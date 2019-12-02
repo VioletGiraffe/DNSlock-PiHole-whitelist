@@ -1,5 +1,3 @@
-maps.aerisapi.com
-prod.mobile.roku.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
@@ -25,9 +23,9 @@ akamaitechnologies.com
 akamaized.net
 alluremedia.com.au
 amazonaws.com
-amzn.to
-amzn.com
 amd.cdn.turner.com
+amzn.com
+amzn.to
 android.clients.google.com
 anrdoezrs.net
 api-global.netflix.com
@@ -209,6 +207,7 @@ lotustalk.com
 m.weeklyad.target.com
 manifest.auditude.com
 manifest.googlevideo.com
+maps.aerisapi.com
 market.spotify.com
 media.sbs.com.au
 meta-db-worker02.pop.ric.plex.bz
@@ -259,6 +258,7 @@ pntra.com
 pntrac.com
 pntrack.com
 pricelist.skype.com
+prod.mobile.roku.com
 prod.telemetry.ros.rockstargames.com
 products.office.com
 proxy.plex.bz
